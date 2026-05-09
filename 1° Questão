@@ -1,5 +1,5 @@
-//1 - Declare um vetor de 10 inteiros, leia um valor para cada posição e no final mostre a média,
-o menor e o maior valor contidos no vetor.
+//Declare um vetor de 10 inteiros, leia um valor para cada posição e no final mostre a média,
+//o menor e o maior valor contidos no vetor.
 
 #include <iostream>
 using namespace std;
